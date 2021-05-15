@@ -1,0 +1,38 @@
+{
+  "name": "pen-tool",
+  "version": "1.0.6",
+  "description": "a pen plugin based canvas for drawing path",
+  "keywords": ["PenTool", "penTool", "pen-tool"],
+  "homepage": "https://github.com/mengshukeji/PenTool",
+  "private": false,
+  "main": "index.umd.js",
+  "module": "index.esm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {"name": "swen_xiong", "url": "https://github.com/swen-xiong"},
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@commitlint/cli": "^9.1.1",
+    "babel-core": "^6.26.3",
+    "babel-preset-latest": "^6.24.1",
+    "cz-conventional-changelog": "^3.2.0",
+    "gulp": "^4.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-rollup": "^2.17.0",
+    "gulp-typescript": "^6.0.0-alpha.1",
+    "gulp-uglify-es": "^2.0.0",
+    "rollup": "^2.18.1",
+    "rollup-plugin-babel": "^3.0.7",
+    "rollup-plugin-terser": "^6.1.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "tslib": "^2.0.0",
+    "typescript": "^3.9.5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
