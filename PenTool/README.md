@@ -1,11 +1,6 @@
 # pen-tool
 
-English | [简体中文](./README-zh.md)
-
 ## Overview
-
-![](./static/example.png)
-
 
 This project is a canvas-based path drawing tool.
 Background: In the h5 editors that are often encountered, there are always a variety of components, but most h5 editors have not found a satisfactory lightweight path drawing tool. So we decided to develop one according to the existing ideas. Considering the advantages of `typescript` over `javascript`, this project is built with `typescript`. If there are any imperfections or new features need to be added, please actively mention the issue.
