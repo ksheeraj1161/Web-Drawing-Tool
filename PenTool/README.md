@@ -147,10 +147,6 @@ The current project is only a simple way to draw and edit paths, and it is not p
 - [ ] Support path to move in canvas
 - [ ] Multi-path drawing
 
-
-### License
-[MIT License](./LICENSE)
-
   
 
 
