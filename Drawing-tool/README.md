@@ -4,4 +4,4 @@ This helps you to draw whatever and however you want to draw on a virtual artboa
 ## Preview:
 
 <img src="Screenshot (106).png"></img><br><br>
-<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes"><b>Docs</b></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes"><b>reference to canvas</b></a>
